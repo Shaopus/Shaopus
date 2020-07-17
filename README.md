@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, nice to meet you, I'm [Shaopu!](https://shaopus.github.io)👋
 
 <!--
 **Shaopus/Shaopus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I'm Pu Shao, a IoT developer from China.
 
+- 🔭 I’m currently working on IoT in Ningbo
+- 🌱 I’m currently learning Go & Python
+- 💬 Ask me about anything [here](https://github.com/shaopus/shaopus/issues)
+- 📫 How to reach me: shaopus@163.com
 
 [![](https://fx.service.tcloudbase.com/api?username=shaopus&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://fx.service.tcloudbase.com/api?username=shaopus&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
