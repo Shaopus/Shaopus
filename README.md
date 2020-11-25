@@ -20,5 +20,9 @@ Hi, I'm Pu Shao, a IoT developer from China.
 - 🌱 I’m currently learning Go & Python
 - 💬 Ask me about anything [here](https://github.com/shaopus/shaopus/issues)
 - 📫 How to reach me: shaopus@163.com
-
-[![](https://fx.service.tcloudbase.com/api?username=shaopus&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://fx.service.tcloudbase.com/api?username=shaopus&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shaopus&show_icons=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaopus&layout=compact" />
+</a>
